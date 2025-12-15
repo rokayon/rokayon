@@ -8,7 +8,9 @@
   <a href="https://www.linkedin.com/in/rokonozzaman-ayon/">LinkedIn</a> •
   <a href="https://orcid.org/0009-0000-3602-0714">ORCID</a>
 </p>
-
+<p align="center">
+  <img src="cover.png" alt="Cover Image" />
+</p>
 ---
 
 ## 🧑‍💼 About Me
