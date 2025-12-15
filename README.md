@@ -11,6 +11,7 @@
 <p align="center">
   <img src="Cover.png" alt="Cover Image" />
 </p>
+
 ---
 
 ## 🧑‍💼 About Me
