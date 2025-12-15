@@ -115,17 +115,6 @@ Full dataset portfolio:
 
 ---
 
-## 📊 GitHub Analytics
-
-### **Minimal + Professional Stats (Dark Mode Friendly)**
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rokonozzaman-ayon&show_icons=true&theme=default&hide_border=true" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rokonozzaman-ayon&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🧪 Research Interests
 - Deep Learning & Vision Transformers  
 - Medical Imaging  
